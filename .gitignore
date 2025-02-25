@@ -1,0 +1,4 @@
+# Ignore specific demo directories
+1.demo/easySCF-main/
+1.demo/sceasy-master/
+1.demo/schard-main/
